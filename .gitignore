@@ -1,0 +1,9 @@
+*.mo
+*.pyc
+*.swo
+*.swp
+*.swn
+*~
+release_party_demo.egg-info/
+build/
+dist/
