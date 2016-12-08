@@ -18,6 +18,6 @@ def get_py_interpreters():
 
 
 def main():
-    print("Installed python interpretes:")
+    print("Installed python interpreters:")
     for interpreter in get_py_interpreters():
         print("  * {0}".format(interpreter))
